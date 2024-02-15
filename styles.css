@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Frestaurant%2F&psig=AOvVaw1ZptNjY2uZsiiI9Yt-9-aX&ust=1708088630291000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjKr5K0rYQDFQAAAAAdAAAAABAJ');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+input {
+    padding: 5px;
+    margin: 5px;
+    width: 200px;
+    font-size: 16px;
+}
